@@ -5,3 +5,6 @@ We build the MEC Network and get K-means clustering groups in "Init_ACH" via [Wi
 
 So please cite the simulator:   
 De Santis, E., Giuseppi, A., Pietrabissa, A. et al. Satellite Integration into 5G: Deep Reinforcement Learning for Network Selection. Mach. Intell. Res. 19, 127–137 (2022). https://doi.org/10.1007/s11633-022-1326-3
+
+
+The paper title of our MFMA-ACH is "Multifactorial Memetic Algorithm with Adaptive Cluster Helper-tasks based on Community Detection for Service Migration Optimization in 5G Mobile Edge Computing", which is under review.
