@@ -1,0 +1,5 @@
+outputCustom: 1
+# if outputCustom == 1, use outputDisk+outputFolder
+# if outputCustom == 1, use os.getcwd() 
+outputDisk: 'c:'
+outputFolder: 'mfea-mec-ue'
